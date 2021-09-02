@@ -1,4 +1,4 @@
-FROM node:8.11.4
+FROM node:8.16.2
 
 RUN mkdir -p /app/website
 WORKDIR /app/website
